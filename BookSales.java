@@ -1,4 +1,3 @@
-package probState4;
 public class BookSales {
     private String salerName;
     private int numberOfSales;
